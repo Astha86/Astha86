@@ -8,7 +8,7 @@
   [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/thatsoastha.svg?style=social&label=Follow%20%40thatsoastha)](https://twitter.com/thatsoastha)
 </p>
 
-- 🌱 I’m currently working on **React**
+- 🌱 I’m currently working on **React Projects**
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
