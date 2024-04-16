@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Astha</h1>
-<h3 align="center">A Front-End Developer from India.</h3>
+<h3 align="center">A passionate Front-End Developer from India.</h3>
 
 <img alt="GIF" align="right" height="250" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif">
 
@@ -32,6 +32,9 @@ available to help and learn together.
 <a href="https://www.codechef.com/users/astha86" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42518907/187090767-7c086a66-394d-483a-a721-dc56ab4d7940.png" alt="astha86" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/Astha_86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Astha_86" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/Astha86/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="Astha86" height="30" width="25" /></a>
+<a href="https://medium.com/yty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yty" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/astha_864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/astha_864" height="30" width="40" /></a>
+<a href="https://discord.gg/ytt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ytt" height="30" width="40" /></a>
 </p>
 </div>
 
