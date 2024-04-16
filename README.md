@@ -20,7 +20,7 @@
 available to help and learn together.
 
 <hr />
-<img alt="GIF" height="200" align="left" src="https://c.tenor.com/XrQe1tqGe6MAAAAC/hx-h-hunter-x-hunter.gif">
+<img alt="GIF" height="200" align="left" src="https://dev.to/devteam/mentor-matching-monthly-4ann">
 
 <div align="center">
 <br />
