@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Astha</h1>
+<h1 align="center">Hey there 👋, I'm Astha</h1>
 <h3 align="center">A passionate Front-End Developer from India.</h3>
 
 <img alt="GIF" align="right" height="250" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif">
