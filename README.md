@@ -26,6 +26,7 @@ available to help and learn together.
 <br />
 <h3>Connect with me:</h3>
 <p>
+ <a href="https://www.linkedin.com/in/astha-sahani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Astha Sahani" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/thatsoastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatsoastha" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/thatsoastha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatsoastha" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/astha86" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42518907/187090767-7c086a66-394d-483a-a721-dc56ab4d7940.png" alt="astha86" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
