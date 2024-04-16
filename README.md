@@ -43,7 +43,7 @@ available to help and learn together.
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img alt="typing" align="right" height="400" src="https://raw.githubusercontent.com/itsvarsharma/itsvarsharma/main/girl.png" />
+<img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,cpp,git,github,&perline=7)](https://skillicons.dev)
