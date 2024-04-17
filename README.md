@@ -44,9 +44,10 @@ available to help and learn together.
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Astha86&label=Profile%20views&color=0e75b6&style=flat" alt="Astha86" /> </p>
 
 <img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,cpp,git,github,&perline=7)](https://skillicons.dev)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Astha86&label=Profile%20views&color=0e75b6&style=flat" alt="Astha86" /> </p>
