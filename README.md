@@ -8,6 +8,8 @@
   [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/thatsoastha.svg?style=social&label=Follow%20%40thatsoastha)](https://twitter.com/thatsoastha)
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Astha86&label=Profile%20views&color=0e75b6&style=flat" alt="Astha86" /> </p>
+
 - 🌱 I’m currently working on **React Projects**
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
