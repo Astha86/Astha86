@@ -21,7 +21,7 @@
 available to help and learn together.
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Astha86&label=Profile%20views&color=0e75b6&style=flat" alt="Astha86" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Astha86&label=Profile%20views&color=0e75b6&style=flat" alt="Astha86" /> </p>
 
 <hr />
 <img alt="GIF" height="200" align="left" src="https://media1.tenor.com/m/cxsA-a-8uz0AAAAC/tom-and-jerry-jerry-the-mouse.gif">
