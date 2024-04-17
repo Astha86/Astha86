@@ -20,6 +20,9 @@
 - 💬 Ask me about programming in general, I am always
 available to help and learn together.
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Astha86&label=Profile%20views&color=0e75b6&style=flat" alt="Astha86" /> </p>
+
 <hr />
 <img alt="GIF" height="200" align="left" src="https://media1.tenor.com/m/cxsA-a-8uz0AAAAC/tom-and-jerry-jerry-the-mouse.gif">
 
@@ -50,4 +53,3 @@ available to help and learn together.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,cpp,git,github,&perline=7)](https://skillicons.dev)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Astha86&label=Profile%20views&color=0e75b6&style=flat" alt="Astha86" /> </p>
