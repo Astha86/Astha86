@@ -54,7 +54,6 @@ available to help and learn together.
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,cpp,git,github,netlify,vercel,figma,&perline=7)](https://skillicons.dev)
 
 <br /><br /><br />
-<hr />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Astha86&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
