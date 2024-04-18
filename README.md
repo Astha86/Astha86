@@ -53,6 +53,7 @@ available to help and learn together.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,cpp,git,github,netlify,vercel,figma,&perline=7)](https://skillicons.dev)
 
+<br /><br /><br />
 <hr />
 
 # 📊 GitHub Stats:
@@ -75,7 +76,7 @@ available to help and learn together.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=vaneela&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
