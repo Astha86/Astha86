@@ -51,5 +51,5 @@ available to help and learn together.
 <img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,cpp,git,github,netlify,vercel,figma,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,cpp,git,github,netlify,vercel,figma,docker,&perline=7)](https://skillicons.dev)
 
