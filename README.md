@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Astha</h1>
-<h3 align="center">A passionate Front-End Developer from India.</h3>
+<h3 align="center">A passionate Front-End Developer and a Coding Enthusiast.</h3>
 
 <img alt="GIF" align="right" height="250" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif">
 
@@ -51,5 +51,5 @@ available to help and learn together.
 <img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,cpp,git,github,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,cpp,git,github,netlify,vercel,&perline=7)](https://skillicons.dev)
 
