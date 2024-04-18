@@ -54,10 +54,10 @@ available to help and learn together.
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,cpp,git,github,netlify,vercel,figma,&perline=7)](https://skillicons.dev)
 
 <br /><br /><br />
-
+<hr />
 
 # 📊 GitHub Stats:
-<hr />
+
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=Astha86&count_private=true&show_icons=true&theme=github_dark&hide_title=true&count_private=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true&hide_border=false&border_radius=30.0&border_color=2f353b)<br/>
@@ -76,8 +76,5 @@ available to help and learn together.
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-[![](https://visitcount.itsvg.in/api?id=vaneela&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
