@@ -3,7 +3,7 @@
 
 
 <!--<img alt="GIF" align="right" height="250" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif"> -->
-<img alt="GIF" align="right" height="250" src="https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Github_Readme.png">
+<img alt="GIF" align="right" height="300" src="https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Github_Readme.png">
 
 <p align="left">
  
