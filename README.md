@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Astha</h1>
+<h1 align="center">Hey there !! 👋, Astha this side.</h1>
 <h3 align="center">A passionate Front-End Developer and a Coding Enthusiast.</h3>
 
 
@@ -11,7 +11,7 @@
 </p>
 
 
-- 🌱 I’m currently working on **React Projects**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
