@@ -11,7 +11,7 @@
 </p>
 
 
-- 🌱 I’m working upskilling my DSA and Dev Skills
+- 🌱 I’m working on upskilling my **DSA and Dev Skills**
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
 - 🚀 Constantly pushing the boundaries of my **Coding Skills**.
