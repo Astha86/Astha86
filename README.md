@@ -1,5 +1,5 @@
 <h1 align="center">Hey there !! 👋, Astha this side.</h1>
-<h3 align="center">A passionate Front-End Developer and a Coding Enthusiast.</h3>
+<h3 align="center">A passionate Full Stack Developer and a Coding Enthusiast.</h3>
 
 
 <!--<img alt="GIF" align="right" height="250" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif"> -->
