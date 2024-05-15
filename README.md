@@ -12,12 +12,12 @@
 
 
 - 🌱 Consistently upskilling my *DSA and Dev Skills*
-- 🎯 I’m currently working on *MERN Stack and Cloud Computing*
+- 🎯 I’m currently working on *Full Stack Project*
+
+- 🚀 Constantly pushing the boundaries of my *Coding Skills*
 - 👯 I’m looking to collaborate on *Projects*
 
-- 🚀 Constantly pushing the boundaries of my **Coding Skills**.
-
-- ⌨️ Mostly, I used to write code on *LeetCode*
+- ⌨️ Mostly, I used to write code on [*LeetCode*](https://leetcode.com/u/Astha86/)
 - 🔭 I'm *exploring DevOps* right now.
   
 - 💬 Ask me about *Programming* in general, I am always
