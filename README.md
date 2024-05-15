@@ -11,15 +11,16 @@
 </p>
 
 
-- 🌱 Consistently upskilling my **DSA and Dev Skills**
-- 🎯 Currently, I’m working on Full Stack Project
-- 👯 I’m looking to collaborate on **Front-End Projects**
+- 🌱 Consistently upskilling my *DSA and Dev Skills*
+- 🎯 I’m currently working on *MERN Stack and Cloud Computing*
+- 👯 I’m looking to collaborate on *Projects*
 
 - 🚀 Constantly pushing the boundaries of my **Coding Skills**.
 
-- ⌨️ Mostly, I used to write code on **LeetCode**
+- ⌨️ Mostly, I used to write code on *LeetCode*
+- 🔭 I'm *exploring DevOps* right now.
   
-- 💬 Ask me about programming in general, I am always
+- 💬 Ask me about *Programming* in general, I am always
 available to help and learn together.
 
 
