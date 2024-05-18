@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on *Projects*
 
 - ⌨️ Mostly, I used to write code on [*LeetCode*](https://leetcode.com/u/Astha86/)
-- 🔭 I'm *exploring DevOps* right now.
+- 🔭 Currently, I'm exploring *DevOps*
   
 - 💬 Ask me about *Programming* in general, I am always
 available to help and learn together.
