@@ -51,7 +51,7 @@ available to help and learn together.
 <h3 align="left">Languages and Tools:</h3>
 
 
-<img alt="typing" align="right" height="250" src="https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Github_Readme.png" />
+<img alt="typing" align="right" height="230" src="https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Github_Readme.png" />
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,npm,postman,c,cpp,git,github,netlify,vercel,azure,figma,vscode,&perline=7)](https://skillicons.dev)
