@@ -3,7 +3,7 @@
 
 
 <!--<img alt="GIF" align="right" height="250" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif"> -->
-<img alt="GIF" align="right" height="250" src="https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Github_Readme.png">
+<img alt="GIF" align="right" height="250" src="https://miro.medium.com/v2/resize:fit:828/0*yBvA5CnEX3Sd4aod.gif">
 
 <p align="left">
  
@@ -51,7 +51,7 @@ available to help and learn together.
 <h3 align="left">Languages and Tools:</h3>
 
 
-<img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
+<img alt="typing" align="right" height="200" src="https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Github_Readme.png" />
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,npm,postman,c,cpp,git,github,netlify,vercel,azure,figma,vscode,&perline=7)](https://skillicons.dev)
