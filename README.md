@@ -37,7 +37,7 @@ available to help and learn together.
 <a href="https://twitter.com/thatsoastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatsoastha" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
  <a href="https://leetcode.com/Astha86/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="Astha86" height="30" width="25" /></a>&nbsp;&nbsp;&nbsp;
  <a href="https://www.codechef.com/users/astha86" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42518907/187090767-7c086a66-394d-483a-a721-dc56ab4d7940.png" alt="astha86" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/Astha_86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Astha_86" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/astha86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Astha_86" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/astha_864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="astha_864" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/thatsoastha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatsoastha" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@thatsoastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="thatsoastha" height="30" width="40" /></a>
@@ -51,7 +51,7 @@ available to help and learn together.
 <h3 align="left">Languages and Tools:</h3>
 
 
-<img alt="typing" align="right" height="230" src="https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Github_Readme.png" />
+<img alt="coding" align="right" height="200" src="https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Github_Readme.png" />
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,npm,postman,c,cpp,git,github,netlify,vercel,azure,figma,vscode,&perline=7)](https://skillicons.dev)
