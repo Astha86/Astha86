@@ -29,7 +29,7 @@ available to help and learn together.
 
 <div align="center">
 <br />
-<h3>Connect with me:</h3>
+<h3>Find me here:</h3>
 <p>
  <a href="https://www.linkedin.com/in/astha-sahani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Astha Sahani" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/thatsoastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatsoastha" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
