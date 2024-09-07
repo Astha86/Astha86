@@ -1,4 +1,4 @@
-<h1 align="center">Hey there !! 👋, [Astha](https://asthasahani-portfolio.netlify.app/) this side.</h1>
+<h1 align="center">Hey there !! 👋, Astha this side.</h1>
 <h3 align="center">A passionate Full Stack Developer and a Coding Enthusiast.</h3>
 
 <img alt="GIF" align="right" height="250" src="https://miro.medium.com/v2/resize:fit:828/0*yBvA5CnEX3Sd4aod.gif">
