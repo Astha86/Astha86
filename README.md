@@ -52,7 +52,7 @@ available to help and learn together.
 <img alt="coding" align="right" height="200" src="https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Github_Readme.png" />
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,antd,js,ts,next,react,redux,nodejs,express,golang,mongodb,mysql,npm,postman,c,cpp,git,github,aws,netlify,vercel,docker,figma,jira,vscode,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,next,react,redux,nodejs,express,golang,mongodb,mysql,npm,postman,c,cpp,git,github,aws,netlify,vercel,docker,figma,vscode,&perline=6)](https://skillicons.dev)
 
 <br /><br /><br />
 <hr />
